@@ -14,7 +14,5 @@ Please follow the guide README.md to install the package on above platform.
 
 
 ```
-<embed 
-src='http://player.youku.com/player.php/sid/XMzgwOTY0NTM5Mg==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>
-</embed>
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzgwOTY0NTM5Mg==' frameborder=0 'allowfullscreen'></iframe>
 ```
