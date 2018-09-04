@@ -12,15 +12,6 @@ Please follow the guide README.md to install the package on above platform.
 
 
 
-
-
-<iframe height=498 width=510 src="http://player.youku.com/embed/XMzgwOTY0NTM5Mg==" frameborder=0 'allowfullscreen'></iframe>
-
-
-
-
-
-
 <iframe 
     width="800" 
     height="450" 
