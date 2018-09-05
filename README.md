@@ -49,14 +49,14 @@ We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) libra
     
     运行``` source ~/.bashrc ```
 
-(3) 运行install.sh脚本
+(3) Run install.sh
     
 ```
 cd PanoramaSlamSDK
 ./install.sh
 ```
 
-(4)可用ldd 命令查看可执行文件是否正确链接动态库
+(4)用ldd 命令查看可执行文件是否正确链接动态库
 
 例如：
        ldd libPanoramaSLAM
@@ -71,6 +71,6 @@ cd sdk
 ```
 
 其中 panorama.yaml 为全景图片的标定文件；
-       imagedata 存放图片数据，图片命名格式为pano%d.jpg,从0开始命名，图片大小为1920*960
-       end_num 为图片总数
+    imagedata 存放图片数据，图片命名格式为pano%d.jpg,从0开始命名，图片大小为1920*960
+    end_num 为图片总数
 
