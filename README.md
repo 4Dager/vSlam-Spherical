@@ -7,10 +7,8 @@ CPU i7 + Ubuntu 16.04 with gcc version 5.4.0
 
 Please follow the guidence following to install the package on above platform.
 
+[![优酷视频](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster")
 
-```
-插入视频
-```
 ##  2. Prerequisites
 
 ### Pangolin
