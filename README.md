@@ -1,9 +1,7 @@
 # Binaries for Spherical Slam 
 
 ##  1. Overview
-This repository contains binaries for running slam with spherical panoramal images.
-
-We have tested it on the following platform:
+This repository contains binaries for running slam with spherical panoramal images.We have tested it on the following platform:
 
 CPU i7 + Ubuntu 16.04 with gcc version 5.4.0
 
