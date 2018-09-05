@@ -38,7 +38,10 @@ We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) libra
           
     /home/dorothy/Desktop/PanoramaSlamSDK/lib/Thirdparty/g2o/lib
         
-    运行 sudo ldconfig;
+    然后执行
+    ```
+    sudo ldconfig
+    ```
 - > 在.bashrc 下添加 LD_LIDBRARY_PATH=sdk/lib:$LD_LIDBRARY_PATH;
 
     例如：
