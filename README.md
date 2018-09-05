@@ -14,10 +14,10 @@ Please follow the guidence following to install the package on above platform.
 ##  2. Prerequisites
 
 ### Pangolin
-We use [Pangolin](https://github.com/stevenlovegrove/Pangolin)for visualization and user interface.
+We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and user interface.
 
 ### OpenCV
-We use [OpenCV](https://opencv.org/)to manipulate images and features.
+We use [OpenCV](https://opencv.org/) to manipulate images and features.
 
 ### Eigen3
 Required by g2o (see below). Download and install instructions can be found at: http://eigen.tuxfamily.org. Required at least 3.1.0.
