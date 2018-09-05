@@ -7,7 +7,7 @@ CPU i7 + Ubuntu 16.04 with gcc version 5.4.0
 
 Please follow the guidence following to install the package on above platform.
 
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzgxMDgwNjg1Mg==' frameborder=0 'allowfullscreen'></iframe>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMzgxMDgwNjg1Mg==" frameborder=0 'allowfullscreen'></iframe>
 
 ##  2. Prerequisites
 
