@@ -5,7 +5,7 @@ This repository contains binaries for running slam with spherical panoramal imag
 
 CPU i7 + Ubuntu 16.04 with gcc version 5.4.0
 
-Please follow the guide README.md to install the package on above platform.
+Please follow the guidence following to install the package on above platform.
 
 
 ```
