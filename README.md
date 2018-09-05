@@ -47,7 +47,7 @@ We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) libra
     
     /home/dorothy/Desktop/PanoramaSlamSDK/lib
     
-    运行``` source ~/.bashrc ```
+    然后执行``` source ~/.bashrc ```
 
 (3) Run install.sh
     
