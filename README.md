@@ -47,13 +47,13 @@ We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) libra
     
     /home/dorothy/Desktop/PanoramaSlamSDK/lib
     
-    运行source ~/.bashrc
+    运行``` source ~/.bashrc ```
 
 (3) 运行install.sh脚本
     
 ```
 cd PanoramaSlamSDK
-  ./install.sh
+./install.sh
 ```
 
 (4)可用ldd 命令查看可执行文件是否正确链接动态库
@@ -65,8 +65,8 @@ cd PanoramaSlamSDK
 (5)运行命令
 
 ```
- cd sdk
-  ./apps/panorama_slam ./apps/ORBvoc.bin ./config/panorama.yaml ./imagedata/ end_num
+cd sdk
+./apps/panorama_slam ./apps/ORBvoc.bin ./config/panorama.yaml ./imagedata/ end_num
   
 ```
 
