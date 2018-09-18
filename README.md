@@ -7,7 +7,7 @@ CPU i7 + Ubuntu 16.04 with gcc version 5.4.0
 
 Please follow the guidence following to install the package on above platform.
 
-
+<p align="center">
 <a href="https://v.youku.com/v_show/id_XMzgxMDgwNjg1Mg==.html?spm=a2h0j.11185381.listitem_page1.5!2~A
 " target="_blank"><img src="https://raw.githubusercontent.com/wiki/4Dager/vSlam-Perspective/8.png" 
 alt="IMAGE ALT TEXT HERE" width="560" height="315" border="0" /></a>  
